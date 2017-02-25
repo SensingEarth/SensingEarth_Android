@@ -68,6 +68,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:maxLines="1"
+                    android:inputType="numberDecimal|numberSigned"
                     android:hint="low"
                     android:textSize="20dp"/>
 
@@ -77,6 +78,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:maxLines="1"
+                    android:inputType="numberDecimal|numberSigned"
                     android:hint="high"
                     android:textSize="20dp"/>
             </LinearLayout>
@@ -106,6 +108,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:maxLines="1"
+                    android:inputType="numberDecimal"
                     android:hint="low"
                     android:textSize="20dp"/>
 
@@ -115,6 +118,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:maxLines="1"
+                    android:inputType="numberDecimal"
                     android:hint="high"
                     android:textSize="20dp"/>
             </LinearLayout>
@@ -145,6 +149,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:maxLines="1"
+                    android:inputType="numberDecimal"
                     android:hint="low"
                     android:textSize="20dp"/>
 
@@ -154,6 +159,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:maxLines="1"
+                    android:inputType="numberDecimal"
                     android:hint="high"
                     android:textSize="20dp"/>
             </LinearLayout>
@@ -169,6 +175,6 @@
         android:layout_height="60dp"
         android:layout_gravity="center"
         android:layout_marginTop="25dp"
-        app:srcCompat="@drawable/ic_add"/>
+        app:srcCompat="@drawable/ic_ok"/>
 
 </LinearLayout>
