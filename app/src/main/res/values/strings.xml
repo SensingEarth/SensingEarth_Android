@@ -4,7 +4,7 @@
     <string name="port_label">Port:</string>
     <string name="connect_button">Connect</string>
     <string name="state_label">State:</string>
-    <string name="ip_adress_label">IP:</string>
+    <string name="ip_address_label">IP:</string>
     <string name="configuration_label">Sensor Configuration:</string>
 
     <string name="new_configuration_button">new</string>
@@ -19,8 +19,9 @@
     <string name="light_label">Light</string>
     <string name="noise_label">Noise</string>
     <string name="create_cfg_button">Create</string>
-    <string name="create_cfg_name_error">Exsiting configuration with the same name, Change name!</string>
+    <string name="create_cfg_name_error">Existing configuration with the same name, Change name!</string>
     <string name="create_cfg_input_error">Input error!</string>
+    <string name="port_error">Port input error, Please reinput!</string>
 
     <string name="current_data_label">Current Data:</string>
 </resources>
