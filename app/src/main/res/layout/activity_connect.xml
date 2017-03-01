@@ -53,6 +53,7 @@
                     android:layout_height="match_parent"
                     android:paddingLeft="15dp"
                     android:maxLines="1"
+                    android:inputType="numberDecimal"
                     android:layout_weight="3"
                     android:text="5001"
                     android:textSize="24dp"/>
